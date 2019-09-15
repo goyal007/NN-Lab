@@ -1,0 +1,4 @@
+Training Algorithms:
+
+a) Single layer Discrete Perceptron Training Algorithms(SLDPTA)
+b) Single Continuos Perceptron Training Algorithms (SCPTA)
