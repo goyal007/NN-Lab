@@ -1,0 +1,2 @@
+ques: 
+Implement Feed forward error back propagation neural network
