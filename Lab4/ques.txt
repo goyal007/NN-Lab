@@ -1,0 +1,2 @@
+ques: 
+Implement both types of associative memory auto as well as hetero
